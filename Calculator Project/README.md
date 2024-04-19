@@ -1,1 +1,1 @@
-Here is a basic calculator project that I worked on in python.
+Here is a calculator project that I worked on in python.
