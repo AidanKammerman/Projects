@@ -1,3 +1,11 @@
+Here are some projects that I was working on implemented on the ESP32-C3-DevKit-RUST-1 development board and a Raspberry PI. The projects focus around topics including microprocessor and microcontroller architecture, programming techniques, bus and memory organization, DMA, timing issues, interrupts, peripheral devices, serial and parallel communication, and interfacing between analog and digital systems. The work is centered around Raspberry PI and ESP32 (RISC-V controller).
+
+
+
+
+
+
+
 # Espressif IoT Development Framework
 
 * [中文版](./README_CN.md)
