@@ -1,5 +1,7 @@
 Computer Systems and C Programming
 
+Each folder has its own README file specific to the project its associated with.
+
 Throughout the Computer Systems and C Programming course,
 I've embarked on a journey to master C programming within the realm of embedded systems development. 
 Beginning with foundational concepts, I've delved into the intricacies of C syntax and basic operations, 
