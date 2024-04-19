@@ -1,6 +1,6 @@
 Computer Systems and C Programming
 
-#Throughout the Computer Systems and C Programming course,
+Throughout the Computer Systems and C Programming course,
 I've embarked on a journey to master C programming within the realm of embedded systems development. 
 Beginning with foundational concepts, I've delved into the intricacies of C syntax and basic operations, 
 gradually building my understanding of control flow, modular coding practices, and memory management. 
