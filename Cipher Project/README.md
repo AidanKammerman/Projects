@@ -1,0 +1,1 @@
+Here is a Cipher project that I worked on in python. It encodes a message from a file that it reads designated by the user to a file for writing also designated by the user. Then you can decode the message from a file it reads and it writes it to a file designated by the user. It uses the principle of a Caesar Cipher.
